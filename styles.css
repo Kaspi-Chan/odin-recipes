@@ -32,4 +32,8 @@ ol li{
     font-size: 24px;
     font-weight: 500;
 }
-
+a{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
